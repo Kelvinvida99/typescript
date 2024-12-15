@@ -4,5 +4,5 @@
         return `${firstNmae} ${restArgs.join(" ")}`;
     };
     const superman = name("Clark", "Joseph", "Kent");
-    console.log(superman);
+    console.log({ superman });
 })();
