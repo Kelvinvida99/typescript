@@ -6,3 +6,4 @@
     const superman = name("Clark", "Joseph", "Kent");
     console.log({ superman });
 })();
+//# sourceMappingURL=rest-args.js.map

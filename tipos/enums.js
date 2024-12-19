@@ -10,3 +10,4 @@
     console.log(checkVolumn);
     console.log(VolumnValue);
 })();
+//# sourceMappingURL=enums.js.map

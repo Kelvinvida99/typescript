@@ -5,3 +5,4 @@
     doctorStrenge[1] = 1;
     console.log(doctorStrenge);
 })();
+//# sourceMappingURL=tupla.js.map

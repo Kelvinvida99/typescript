@@ -10,4 +10,6 @@
         age: 24,
         power: ["Todos"],
     };
+    console.log(superman);
 })();
+//# sourceMappingURL=objcts.js.map

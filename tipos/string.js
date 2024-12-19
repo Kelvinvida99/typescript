@@ -5,3 +5,4 @@
     let superman = "I'm superman";
     console.log(superman.toUpperCase());
 })();
+//# sourceMappingURL=string.js.map

@@ -7,3 +7,4 @@
     const getHello = sayHello();
     console.log(getHello);
 })();
+//# sourceMappingURL=function.js.map

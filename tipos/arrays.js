@@ -4,3 +4,4 @@
     let villians = ["Tanos", "RedsCool", "Ultron"];
     villians.forEach((v, i, arr) => console.log(v, i, arr));
 })();
+//# sourceMappingURL=arrays.js.map

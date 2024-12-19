@@ -5,3 +5,4 @@
     };
     console.log(errorMessage("Ha ocurrido un error"));
 })();
+//# sourceMappingURL=never.js.map

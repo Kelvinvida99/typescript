@@ -6,3 +6,4 @@
     avenger = 1.555;
     console.log(avenger.toFixed(2));
 })();
+//# sourceMappingURL=any.js.map

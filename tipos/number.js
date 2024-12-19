@@ -11,3 +11,4 @@
     totalAvengers = Number("A55");
     console.log(totalAvengers);
 };
+//# sourceMappingURL=number.js.map
